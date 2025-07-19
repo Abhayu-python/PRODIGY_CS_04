@@ -4,7 +4,9 @@ Pixel manipulation for image encryption involves altering pixel values within an
 
 # 🧐Why pixel manipulation?
 Security: Changes to pixel values can render the image unrecognizable, protecting its content. 
+
 Efficiency: Pixel manipulation can be implemented relatively quickly, enabling faster encryption and decryption. 
+
 Versatility: Can be adapted to various encryption algorithms and image formats. 
 
 # 🛠️Language used:
