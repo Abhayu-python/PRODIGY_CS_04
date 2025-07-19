@@ -19,8 +19,11 @@ Name: Abhay Pratap
 
 # ✅✅Status:
 ✅Key Management
+
 ✅Computational Complexity
+
 ✅Visual Differences
+
 
 # Contact:
 [LinkedIn](https://www.linkedin.com/in/ap-saini-5aa231302/)
