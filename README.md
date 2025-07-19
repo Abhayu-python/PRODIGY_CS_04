@@ -1,4 +1,4 @@
-# PRODIGY_CY_04
+# PRODIGY_CS_04
 # 🚀Overview:
 Pixel manipulation for image encryption involves altering pixel values within an image to obscure its content, rendering it unreadable without a decryption key.
 
